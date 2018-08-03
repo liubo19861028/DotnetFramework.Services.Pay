@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Dotnet.Services.Pay</AssemblyName>
+    <PackageId>DotnetFramework.Services.Pay</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>liubo</Authors>
+    <Company>liubo</Company>
+    <Product>DotnetFramework.Services</Product>
+    <Description>微服务架构， 统一支付接口。 统一支付帮助类</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>微服务架构， 统一支付接口。 统一支付帮助类</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\..\bin\services\pay\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Payments\Wechatpay\Signatures\HmacSha256SignManager.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.1" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Dotnet.AutoMapper\Dotnet.AutoMapper.csproj" />
+    <ProjectReference Include="..\..\src\Dotnet\Dotnet.Common.csproj" />
+    <ProjectReference Include="..\Dotnet.Services.Base\Dotnet.Services.Base.csproj" />
+  </ItemGroup>
+
+</Project>

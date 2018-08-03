@@ -1,0 +1,15 @@
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\bin\Debug\netstandard2.0\DotCommon.Services.Pay.deps.json
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\bin\Debug\netstandard2.0\DotCommon.Services.Pay.dll
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\bin\Debug\netstandard2.0\DotCommon.Services.Pay.pdb
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.csproj.CoreCompileInputs.cache
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.AssemblyInfoInputs.cache
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.AssemblyInfo.cs
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.dll
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.pdb
+F:\MyProject\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.deps.json
+F:\MyProject\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.dll
+F:\MyProject\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.pdb
+F:\MyProject\DotCommon-master\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.deps.json
+F:\MyProject\DotCommon-master\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.dll
+F:\MyProject\DotCommon-master\DotCommon-master\bin\services\pay\netstandard2.0\DotCommon.Services.Pay.pdb
+F:\MyProject\DotCommon-master\DotCommon-master\Services\DotCommon.Services.Pay\obj\Debug\netstandard2.0\DotCommon.Services.Pay.csprojResolveAssemblyReference.cache
